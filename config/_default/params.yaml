@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Personal website of Yixiao Li'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -64,13 +64,13 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   diagram:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/yxli2123/personal_website'
     content_dir: content
     branch: master
   avatar:
