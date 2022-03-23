@@ -10,13 +10,13 @@ date: "2019-12-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Eggbot preview
   focal_point: Smart
 
 links:
-- icon: gitHub
+- icon: github
   icon_pack: fab
-  name: Follow
+  name: Code
   url: https://github.com/yxli2123/PROJ_eggbotApp
 
 url_pdf: ""
@@ -36,7 +36,7 @@ Our eggbot has 2 servos to control the position of eggs and the angle of the pen
 
 To draw images on eggs, we also develop an App on iPad to allow users either draw or upload images.
 
-<img src="./eggbot_app.png" alt="eggbot_app" style="zoom:30%;" />
+<img src="post/eggbot/eggbot_app.png" alt="eggbot_app" style="zoom:30%;" />
 
 The whole structure is shown in the following image, basically 3 parts:
 
