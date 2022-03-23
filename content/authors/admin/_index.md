@@ -38,18 +38,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'anyfine2123@mail.ustc.edu.cn'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.com
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://scholar.google.com
 - icon: github
   icon_pack: fab
   link: https://github.com/yxli2123
-- icon: zhihu
-  icon_pack: fab
-  link: https://www.zhihu.com/people/yxli2123
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yixiao-li-90710b209/
