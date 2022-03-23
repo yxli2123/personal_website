@@ -31,7 +31,10 @@ url_video: ""
 Co-worker: Zhiling Zhang(张志凌), Zijie Zhou(周子杰), and Siyuan Liu(刘思源)
 
 ## 1. Overview
-<video  width="720" height="400" src="./Eggbot.mp4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></video>
+<video width="720" height="400" controls>
+  <source src="./Eggbot.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 Our eggbot has 2 servos to control the position of eggs and the angle of the pen, a stepper motor to control the height of the pen and a microcontroller unit to manage all these motors.
 
