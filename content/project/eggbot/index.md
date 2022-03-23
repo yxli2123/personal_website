@@ -64,7 +64,7 @@ The embedded system is based on STM32F105. The system has 3 parts:
 
 Details can be found in the following circuit diagram.
 
- <img src="/Users/yxli/Documents/personal_website/content/project/eggbot/PCB Circuit.png" alt="PCB Circuit" style="zoom:50%;" />
+ <img src="./PCB Circuit.png" alt="PCB Circuit" style="zoom:50%;" />
 
 Moters need 12V power while microcontroller only needs 5V, so we add the power management unit.
 
