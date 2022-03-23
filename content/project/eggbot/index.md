@@ -40,7 +40,7 @@ Our eggbot has 2 servos to control the position of eggs and the angle of the pen
 
 To draw images on eggs, we also develop an App on iPad to allow users either draw or upload images.
 
-<img src="./eggbot_app.png" alt="eggbot_app" style="zoom:30%;" />
+<img src="./eggbot_app.png" alt="eggbot_app" style="zoom:100%;" />
 
 The whole structure is shown in the following image, basically 3 parts:
 
@@ -48,13 +48,13 @@ The whole structure is shown in the following image, basically 3 parts:
 - Embedded System
 - Mechanical Structure
 
-<img src="./eggbot_structure.png" alt="eggbot_structure" style="zoom:30%;" />
+<img src="./eggbot_structure.png" alt="eggbot_structure" style="zoom:100%;" />
 
 ## 2. Image Processing
 
 The image that is not drawn directly on the iPad must be pre-processed to extract edges of the main object on it. We simply first apply Canny operator to detect and extract the edges, like this
 
-<img src="./eggbot_image_processing.png" alt="eggbot_image_processing" style="zoom:50%;" />
+<img src="./eggbot_image_processing.png" alt="eggbot_image_processing" style="zoom:100%;" />
 
 However, our eggbot doesn't draw images like printers -- pixel by pixel. Instead, the eggbot draws a continuous curve on an egg, just like human! To this end, we should decompose the black-white image into many different continues curves and save these points. For each curve, we only need save the start point and the offsets.
 
@@ -68,7 +68,7 @@ The embedded system is based on STM32F105. The system has 3 parts:
 
 Details can be found in the following circuit diagram.
 
- <img src="./PCB Circuit.png" alt="PCB Circuit" style="zoom:50%;" />
+ <img src="./PCB Circuit.png" alt="PCB Circuit" style="zoom:100%;" />
 
 Moters need 12V power while microcontroller only needs 5V, so we add the power management unit.
 
