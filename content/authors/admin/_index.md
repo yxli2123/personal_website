@@ -47,6 +47,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/yxli2123
+- icon: zhihu
+  icon_pack: fab
+  link: https://www.zhihu.com/people/yxli2123
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yixiao-li-90710b209/
@@ -56,7 +59,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
