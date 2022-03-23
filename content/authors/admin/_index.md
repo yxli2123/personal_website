@@ -14,7 +14,7 @@ organizations:
   url: https://www.ustc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include image and video processing
+bio: USTC Undergraduate 
 
 # Interests to show in About widget
 interests:
