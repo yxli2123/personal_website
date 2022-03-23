@@ -30,13 +30,13 @@ url_video: ""
 Co-worker: Zhiling Zhang(张志凌), Zijie Zhou(周子杰), and Siyuan Liu(刘思源)
 
 ## 1. Overview
-<iframe width="950" height="534" src="https://www.youtube.com/embed/yLoykmJFYR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="434" src="https://www.youtube.com/embed/yLoykmJFYR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Our eggbot has 2 servos to control the position of eggs and the angle of the pen, a stepper motor to control the height of the pen and a microcontroller unit to manage all these motors.
 
 To draw images on eggs, we also develop an App on iPad to allow users either draw or upload images.
 
-<img src="post/eggbot/eggbot_app.png" alt="eggbot_app" style="zoom:30%;" />
+<img src="./eggbot_app.png" alt="eggbot_app" style="zoom:30%;" />
 
 The whole structure is shown in the following image, basically 3 parts:
 
