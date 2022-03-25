@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'anyfine2123@mail.ustc.edu.cn'
+  link: 'mailto:anyfine2123@mail.ustc.edu.cn'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/
