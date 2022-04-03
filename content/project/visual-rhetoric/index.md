@@ -1,6 +1,6 @@
 ---
 title: Visual Rhetoric
-summary: Visual Rhetoric, an experimental art, visualizing Chinese rhetoric, for example, parallelism (排比), duality (对偶), and palindrome (回文).
+summary: Visual Rhetoric, an experimental art, visualizing Chinese rhetoric, for example, parallelism (), duality (), and palindrome ().
 tags:
 - Art
 - Web design 
