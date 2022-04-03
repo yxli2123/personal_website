@@ -1,23 +1,23 @@
 ---
 title: Visual Rhetoric
-summary: Visual Rhetoric
+summary: Visual Rhetoric, an experimental art, visualizing Chinese rhetoric, for example, parallelism (排比), duality (对偶), and palindrome (回文).
 tags:
 - Art
 - Web design 
-date: "2022-03-15T00:00:00Z"
+date: "2022-04-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: demo
+  caption: Wind
   focal_point: Smart
 
 #links:
 #- icon: github
 #  icon_pack: fab
 #  name: Code
-#  url: https://github.com/yxli2123/PROJ_eggbotApp
+#  url: https://github.com/yxli2123/visual_rhetoric
 
 
 url_pdf: ""
